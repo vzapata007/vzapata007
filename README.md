@@ -32,10 +32,10 @@ I'm a passionate Software Engineer with extensive experience in web application 
 
 ## 📚 Projects
 
-### [E-commerce Platform](https://github.com/vzapata007/ecommerce-platform)
+### [E-commerce Platform](https://github.com/vzapata007/ecommerce-platform) (Under Construction)
 A robust E-commerce platform for medicines with admin and user roles.
 
-### [Login System](https://github.com/vzapata007/login-system)
+### [Login System](https://github.com/vzapata007/login-system) (Under Construction)
 A secure and efficient login system using React, Vite, TypeScript, and Axios.
 
 <!---
