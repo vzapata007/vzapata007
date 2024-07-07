@@ -17,7 +17,7 @@ I'm a passionate Software Engineer with extensive experience in web application 
 - **Languages:** VB.NET, C#, JavaScript
 - **Frameworks:** .NET, React, ASP.NET
 - **Databases:** SQL, MySQL
-- **Tools:** VSCODE, Visual Studio, SSIS, Crystal Reports, Azure, SSMS
+- **Tools:** VSCode, Visual Studio, SSIS, Crystal Reports, Azure, SSMS
 
 ## 📈 GitHub Stats
 
