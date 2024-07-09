@@ -10,7 +10,7 @@ I'm a passionate Software Engineer with extensive experience in web application 
 - 💞️ I’m looking to collaborate on React projects, especially those involving Vite, TypeScript, and Axios, as well as E-commerce platforms.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-zapata-007/) | [Email](mailto:victor.zapata@example.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love experimenting with new technologies and frameworks in my free time.
+- ⚡ Fun fact: I love experimenting with new technologies and frameworks in my free time, and I enjoy playing Dota 2! I've been playing this game since 2006.
 
 ## 🛠️ Skills
 
