@@ -8,7 +8,7 @@ I'm a passionate Software Engineer with extensive experience in web application 
 - 💼 I have extensive experience with ASP.NET, business logic implementation, and agile methodologies.
 - 🌱 I’m currently learning .NET Core 8.0 and ASP.NET MVC 6.0.
 - 💞️ I’m looking to collaborate on React projects, especially those involving Vite, TypeScript, and Axios, as well as E-commerce platforms.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-zapata-007/) | [Email](mailto:victor.zapata@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vzapata1985/) | [Email](mailto:victor.zapata@msn.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new technologies and frameworks in my free time, and I enjoy playing Dota 2! I've been playing this game since 2006.
 
