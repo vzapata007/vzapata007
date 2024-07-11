@@ -4,10 +4,14 @@ I'm a passionate Software Engineer with extensive experience in web application 
 
 ## 🚀 About Me
 
+<p>
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" style="width: 200px; height: 200px;" />
+</p>
+
 - 👀 I’m interested in web application development, data integration, and agile methodologies.
 - 💼 I have extensive experience with ASP.NET, business logic implementation, and agile methodologies.
 - 🌱 I’m currently learning .NET Core 8.0 and ASP.NET MVC 6.0.
-- 💞️ I’m looking to collaborate on React projects, especially those involving Vite, TypeScript, and Axios, as well as E-commerce platforms.
+- 💞️ I’m looking to collaborate on React projects, especially those involving Vite, TypeScript, and Axios.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vzapata1985/) | [Email](mailto:victor.zapata@msn.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new technologies and frameworks in my free time, and I enjoy playing Dota 2! I've been playing this game since 2006.
