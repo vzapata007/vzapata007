@@ -5,7 +5,7 @@ I'm a passionate Software Engineer with extensive experience in web application 
 ## 🚀 About Me
 
 <p>
-  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" style="width: 200px; height: 200px;" />
+  <img align="right" src="https://github.com/vzapata007/vzapata007/blob/master/animation_500_kxa883sd.gif" style="width: 200px; height: 200px;" />
 </p>
 
 - 👀 I’m interested in web application development, data integration, and agile methodologies.
