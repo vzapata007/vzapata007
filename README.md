@@ -25,7 +25,6 @@ I'm a passionate Software Engineer with extensive experience in web application 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vzapata007&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vzapata007&layout=compact&theme=radical)
 
 ## 🏆 Achievements
