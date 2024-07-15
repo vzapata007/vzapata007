@@ -27,19 +27,6 @@ I'm a passionate Software Engineer with extensive experience in web application 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vzapata007&layout=compact&theme=radical)
 
-## 🏆 Achievements
-
-- Developed and maintained data-centric web applications for Itau Bank.
-- Enhanced cash management applications and led API.NET Framework 4.8 integration efforts.
-- Collaborated with cross-functional teams using Agile/SCRUM methodology.
-
-## 📚 Projects
-
-### [E-commerce Platform](https://github.com/vzapata007/MediPulseAPI) (Backend)
-A E-commerce backend for medicines with admin and user roles.
-
-### [Login System](https://github.com/vzapata007/DotNet8Authentication) 
-A secure and efficient login system using React, Vite, TypeScript, and Axios.
 
 <!---
 vzapata007/vzapata007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
